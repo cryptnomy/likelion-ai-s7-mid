@@ -113,11 +113,11 @@
 데이터 시각화 |
 | 22일 토 | ppt 자료 |
 | 23일 일 | 발표 준비 |
-- [@jigu]: 전 과정 참여
-- [@cryptnomy]: 전 과정 참여
-- [@Emmazle]: 전 과정 참여
-- [@imngooh]: 전 과정 참여
-- [@IMIN-0118]: 전 과정 참여
+- [@jigu](https://github.com/smearth): 전 과정 참여
+- [@cryptnomy](https://github.com/cryptnomy): 전 과정 참여
+- [@Emmazle](https://github.com/Emmazle): 전 과정 참여
+- [@imngooh](https://github.com/igmngooh): 전 과정 참여
+- [@IMIN-0118]((https://github.com/IMIN-0118): 전 과정 참여
 
 ### 3. 프로젝트 수행 절차 및 방법
 
@@ -277,11 +277,11 @@
 
 | 이름 | 각오 |
 | --- | --- |
-| @jigu | 실력을 반드시 키우겠다! |
-| @cryptnomy | 주말엔 풀 참여. 전기차 관련된 흥미로운 이야기 찾기. |
-| @Emmazle | 최선을 다하자 |
-| @imngooh | 팀원들과 함께 스스로 만족할 수 있는 결과물을 만들어보자! 파이팅! |
-| @IMIN-0118 | 안되면 될 때까지 하자..!!!! |
+| [@jigu](https://github.com/smearth) | 실력을 반드시 키우겠다! |
+| [@cryptnomy](https://github.com/cryptnomy) | 전기차 관련된 흥미로운 이야기 찾기. |
+| [@Emmazle](https://github.com/Emmazle) | 최선을 다하자 |
+| [@imngooh](https://github.com/imngooh) | 팀원들과 함께 스스로 만족할 수 있는 결과물을 만들어보자! 파이팅! |
+| [@IMIN-0118](https://github.com/IMIN-0118) | 안되면 될 때까지 하자..!!!! |
 
 ### 5. 부록
 
