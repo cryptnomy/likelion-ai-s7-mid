@@ -104,20 +104,17 @@
 
 <일정>
 
-| 19일 수 | 11:50 : 계획서
-오후: 데이터 수집 & 일부 데이터 전처리 |
+| 19일 수 | 11:50: 계획서 마감, 오후: 데이터 수집 & 일부 데이터 전처리 |
 | --- | --- |
-| 20일 목 | 데이터 전처리
-데이터 시각화 |
-| 21일 금 | 데이터 전처리 
-데이터 시각화 |
+| 20일 목 | 데이터 전처리, 데이터 시각화 |
+| 21일 금 | 데이터 전처리, 데이터 시각화 |
 | 22일 토 | ppt 자료 |
 | 23일 일 | 발표 준비 |
 - [@jigu](https://github.com/smearth): 전 과정 참여
 - [@cryptnomy](https://github.com/cryptnomy): 전 과정 참여
 - [@Emmazle](https://github.com/Emmazle): 전 과정 참여
 - [@imngooh](https://github.com/igmngooh): 전 과정 참여
-- [@IMIN-0118]((https://github.com/IMIN-0118): 전 과정 참여
+- [@IMIN-0118](https://github.com/IMIN-0118): 전 과정 참여
 
 ### 3. 프로젝트 수행 절차 및 방법
 
